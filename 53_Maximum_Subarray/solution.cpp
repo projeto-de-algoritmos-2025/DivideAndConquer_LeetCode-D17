@@ -31,6 +31,13 @@ O algoritmo funciona da seguinte forma:
 O caso base da recursão é quando há apenas um elemento (esq == dir),
 retornando o próprio elemento.
 */
+
+#include <vector>
+#include <algorithm>
+#include <climits>
+
+using namespace std;
+
 class Solution {
 public:
     int maxSubArrayRecursivo(vector<int>& nums, int esq, int dir) {
