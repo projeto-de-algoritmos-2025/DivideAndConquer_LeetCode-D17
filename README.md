@@ -17,6 +17,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Médio |  |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Difícil |  |
 
 [Vídeo explicando todos os exercícios]()
 
