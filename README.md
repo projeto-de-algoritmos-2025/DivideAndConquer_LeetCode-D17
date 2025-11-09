@@ -22,17 +22,15 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 ## Screenshots
 
-### Exercício 01
+### Exercício 01 - [53. Maximum Subarray](https://github.com/projeto-de-algoritmos-2025/DivideAndConquer_LeetCode-D17/blob/master/53_Maximum_Subarray/solution.cpp) - Médio
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="53_Maximum_Subarray/image.png" />
   <br/>
-  <a href="">
-    Visualizar submissão do exercício
+  <a href="https://leetcode.com/problems/maximum-subarray/submissions/1825398176/">
+    Visualizar submissão do exercício 53
   </a>
 </div>
--->
 
 ### Exercício 02
 
