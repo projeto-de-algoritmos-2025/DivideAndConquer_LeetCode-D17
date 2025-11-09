@@ -33,17 +33,15 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 02
+### Exercício 02 - [4. Median of Two Sorted Arrays](https://github.com/projeto-de-algoritmos-2025/DivideAndConquer_LeetCode-D17/blob/master/4_Median_of_Two_Sorted_Arrays/solution.cpp) - Difícil
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="4_Median_of_Two_Sorted_Arrays/image.png" />
   <br/>
-  <a href="">
-    Visualizar submissão do exercício
+  <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1825460722/">
+    Visualizar submissão do exercício 4
   </a>
 </div>
--->
 
 ### Exercício 03
 
