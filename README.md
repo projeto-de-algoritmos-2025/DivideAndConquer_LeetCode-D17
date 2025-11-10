@@ -16,8 +16,10 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
+| [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Médio | | 
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Médio |  |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | Difícil |  |
+| [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Difícil |  |
 
 [Vídeo explicando todos os exercícios]()
 
@@ -43,29 +45,25 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 03
+### Exercício 03 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) - Médio
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="215_Kth_Largest_Element_in_an_Array/image.png" />
   <br/>
-  <a href="">
+  <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1823409919/">
     Visualizar submissão do exercício
   </a>
 </div>
--->
 
-### Exercício 04
+### Exercício 04 - [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) - Difícil 
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="315_Count_of_Smaller_Numbers_After_Self/image.png" />
   <br/>
-  <a href="">
+  <a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/1823419301/">
     Visualizar submissão do exercício
   </a>
 </div>
--->
 
 ## Instalação 
 **Linguagem**: C++<br>
